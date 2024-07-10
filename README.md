@@ -30,8 +30,8 @@ reflect a little.
 
 ## What to discuss in Weaving Groups
 
-What each group discusses will vary based on participants. The guiding principle
-is that weaving is there to help people arrive.
+What each group discusses will vary based on participants. The guiding
+principle is that weaving is there to help people arrive.
 
 That can take many forms:
 - getting to know a little more about a few people in the camp
@@ -65,6 +65,30 @@ I run weaving circles fairly simply with these phases:
       drift off, and it can get weird :P
     - people can hang around and continue to talk of course!
     - reminder of time + place
+
+## FAQ - Participants
+
+1. **Are weaving groups just for new people?**
+- No! If you're an "old hand" there is a lot you can both offer AND gain from
+  participating:
+    - extending the culture that you would like to see prosper
+    - sharing knowledge / experience
+    - meeting new people / ideas (break out of your silo!)
+
+2. **Are weaving groups compulsory?**
+- No. Highly recommended, and optional.
+- If you do join a weaving group, please commit to coming each night, it saves
+  groups re-organising and waiting in case people do / don't show up.
+
+## FAQ - Weavers
+
+1. **I don't know everything, what if someone asks a question I don't know how
+to answer?**
+- Totally normal. You can say you don't know and but that you can help find the
+  right person to ask
+- You might also ask the group - there's a decent chance there's another
+  participant who knows.
+
 
 
 ## History
