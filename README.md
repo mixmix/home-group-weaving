@@ -117,6 +117,8 @@ context it was called "home groups".
 In the Dweb context weaving has been run since 2019, and it's been an opt-in.
 
 Previous docs:
+- 2023:
+  https://docs.google.com/presentation/d/1kS7-vhUWpnik4MubA00p42MvS8vJAdc4MY6GrmqEe_Q/edit#slide=id.p
 - 2022: https://hackmd.io/@ahdinosaur/Sk5v2qLRc
 - 2019:
   https://github.com/dweb-camp-2019/organizing/blob/master/roles/weavers.md
