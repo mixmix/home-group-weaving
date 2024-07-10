@@ -82,6 +82,15 @@ I run weaving circles fairly simply with these phases:
     - How do you like to spend your energy?
 4. Your group may evolve, go with what feels right
 
+### Great questions
+
+- What are you currently trying to unlearn?
+- what is a memory, image, smell, food or noise from your childhood that...(i.e. reminds you of home/safety)
+- what were you surprised by / not surprised by?
+- use a cards game call "We are not really strangers" - every attendee has the chance to pick their questions or uses one already on the table
+
+
+
 
 ## FAQ - Participants
 
