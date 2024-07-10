@@ -66,6 +66,23 @@ I run weaving circles fairly simply with these phases:
     - people can hang around and continue to talk of course!
     - reminder of time + place
 
+### Mikey's recipe
+
+1. Sit in a circle
+2. Start with a check-in round: "How are you feeling?"
+3. Then pass around any number of other questions
+    - What's the story of how you arrived here?
+    - What's your relationship to the decentralized web?
+    - What's a community that helped raise you?
+    - Where do you feel your attention is focused lately?
+    - What questions are you reflecting on at the moment?
+    - What is something unique to you that you bring to DWeb Camp?
+    - What's something that people wouldn't know about you by looking at you?
+    - What's something you ate last week that you really enjoyed?
+    - How do you like to spend your energy?
+4. Your group may evolve, go with what feels right
+
+
 ## FAQ - Participants
 
 1. **Are weaving groups just for new people?**
@@ -97,6 +114,10 @@ Weaving is a pattern which was adopted from the Enspiral community (via
 Scuttlebutt), where there has been a history of yearly gatherings. In that
 context it was called "home groups".
 
-In the Dweb context weaving has been run for several camps, and it's been an
-opt-in process.
+In the Dweb context weaving has been run since 2019, and it's been an opt-in.
+
+Previous docs:
+- 2022: https://hackmd.io/@ahdinosaur/Sk5v2qLRc
+- 2019:
+  https://github.com/dweb-camp-2019/organizing/blob/master/roles/weavers.md
 
