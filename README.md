@@ -15,16 +15,14 @@ We meet for a short time at the end of each day to connect, share highlights,
 reflect a little.
 
 <details>
+<summary>Some more notes on the design</summary>
 
-    <summary> Some more notes on the design </summary>
-
-    - small groups: many people find large groups intimidating, so meeting in
-    small groups is a way to make a cosier more personable space.
-    - old hands: having a people who've been before means rather than reading
-    some manual, you can ask questions directly of a person who can share their
-    experience. They also likely know where to find things / people if they
-    can't answer a specific question
-
+- small groups: many people find large groups intimidating, so meeting in
+small groups is a way to make a cosier more personable space.
+- old hands: having a people who've been before means rather than reading
+some manual, you can ask questions directly of a person who can share their
+experience. They also likely know where to find things / people if they
+can't answer a specific question
 </details>
 
 
