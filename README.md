@@ -26,7 +26,6 @@ reflect a little.
 
 </details>
 
-
 ## What to discuss in Weaving Groups
 
 What each group discusses will vary based on participants. The guiding
@@ -44,7 +43,6 @@ questions:
 1. where did you travel here from?
 2. what's something you're passionate about / love to do?
 3. what's your name?
-
 
 ### Mix's recipe
 
@@ -89,7 +87,6 @@ I run weaving circles fairly simply with these phases:
 - use a cards game call "We are not really strangers" - every attendee has the
   chance to pick their questions or uses one already on the table
 
-
 ## FAQ - Participants
 
 1. **Are weaving groups just for new people?**
@@ -122,8 +119,10 @@ context it was called "home groups".
 In the Dweb context weaving has been run since 2019, and it's been an opt-in.
 
 Previous docs:
-- 2023:
-  https://docs.google.com/presentation/d/1kS7-vhUWpnik4MubA00p42MvS8vJAdc4MY6GrmqEe_Q/edit#slide=id.p
-- 2022: https://hackmd.io/@ahdinosaur/Sk5v2qLRc
-- 2019:
-  https://github.com/dweb-camp-2019/organizing/blob/master/roles/weavers.md
+- 2023: [Weaver Training 2023 - Google Slides][weaver2023slides]
+- 2022: [2022 DWeb Weaving - HackMD][weaving2022]
+- 2019: [DWeb Camp 2019 - Weavers][weavers2019]
+
+[weaver2023slides]: https://docs.google.com/presentation/d/1kS7-vhUWpnik4MubA00p42MvS8vJAdc4MY6GrmqEe_Q/edit#slide=id.p
+[weaving2022]: https://hackmd.io/@ahdinosaur/Sk5v2qLRc
+[weavers2019]: https://github.com/dweb-camp-2019/organizing/blob/master/roles/weavers.md
