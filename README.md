@@ -26,6 +26,27 @@ can't answer a specific question
 </details>
 
 
+## Forming Groups
+
+There are a few ways for form groups - broadly you can pre-assign before the
+gathering, or dynamically assign on the first day. We always organise weavers
+(group hosts) before the event so there is some supported structure for people
+to arrive into.
+
+The Dynamics Assignment process we've run previously is to give participants
+the following simple rules, and to let the physics of those rules transform the
+group into a fluid which solves for "good shaped groups"
+
+Rules
+- Groups form around a Weaver
+- Repel from people you already know (to the extent of your comfort)
+- Ideally: 1 old hand, max 7 people
+
+In 2026 we're going to seed a couple of dedicated groups:
+- Portugeuse Langauge speaking
+- Parents with your kids
+- Gender Diverse
+
 ## What to discuss in Weaving Groups
 
 What each group discusses will vary based on participants. The guiding
