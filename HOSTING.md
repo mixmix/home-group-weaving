@@ -47,8 +47,10 @@ one for the first time you meet, and one for the days after.
     - consider another question (see "Prompt round" questions below)
         - it could be as simple as _"How's camp going so far?"_
     - ask _"Anything else?"_
-4. **Close** — remind people of the time + place tomorrow, and clearly mark
-   that the group is done (people are welcome to hang or head off).
+4. **Close**
+    - remind people of the time + place tomorrow
+    - clearly mark that the gathering is done (people are welcome to hang or head off)
+
 
 ### Recipe: Each day
 
@@ -77,10 +79,14 @@ one for the first time you meet, and one for the days after.
       reminds you of home / safety?
     - what were you surprised by today / this camp?
     - what's a hill you'd die on?
-3. **Free-form** — any general questions about camp? (the weaver doesn't need
-   to know everything — rather, help route the question). Anything else?
-4. **Close** — remind people of the time + place tomorrow, and clearly mark
-   that the group is done.
+3. **Free-form** — choose what best serves
+    - can ask if any needs/ questions have surfaced
+    - could pose another question, or to open up a thread that emerged during rounds,
+      or just move to open conversation.
+4. **Close**
+    - remind people of the time + place tomorrow
+    - clearly mark that the gathering is done.
+
 
 ### Weaver styles
 

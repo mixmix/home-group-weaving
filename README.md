@@ -47,16 +47,16 @@ formed, session recipes, and a bank of prompts.
 ## FAQ - Participants
 
 1. **Are weaving groups just for new people?**
-  - No! If you're an "old hand" there is a lot you can both offer AND gain from
-    participating:
-    - extending the culture that you would like to see prosper
-    - sharing knowledge / experience
-    - meeting new people / ideas (break out of your silo!)
+    - No! If you're an "old hand" there is a lot you can both offer AND gain from
+      participating:
+        - extending the culture that you would like to see prosper
+        - sharing knowledge / experience
+        - meeting new people / ideas (break out of your silo!)
 
 2. **Are weaving groups compulsory?**
-  - No. Highly recommended, and optional.
-  - If you do join a weaving group, you're expected to attend each day, it saves
-    groups re-organising and waiting in case people do / don't show up.
+    - No. Highly recommended, and optional.
+    - If you do join a weaving group, you're expected to attend each day, it saves
+      groups re-organising and waiting in case people do / don't show up.
 
 
 ## Resources
