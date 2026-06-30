@@ -20,14 +20,14 @@ reflect a little.
 <details>
 <summary>Some more notes on the design</summary>
 
-- small groups: many people find large groups intimidating, so meeting in
-small groups is a way to make a cosier more personable space.
-- old hands: having a people who've been before means rather than reading
-some manual, you can ask questions directly of a person who can share their
-experience. They also likely know where to find things / people if they
-can't answer a specific question
-</details>
+- small groups: many people find large groups intimidating, so meeting in small
+  groups is a way to make a cosier more personable space.
+- old hands: having a people who've been before means rather than reading some
+  manual, you can ask questions directly of a person who can share their
+  experience. They also likely know where to find things / people if they can't
+  answer a specific question
 
+</details>
 
 ## What to discuss in Weaving Groups
 
@@ -47,15 +47,15 @@ formed, session recipes, and a bank of prompts.
 ## FAQ - Participants
 
 1. **Are weaving groups just for new people?**
-    - No! If you're an "old hand" there is a lot you can both offer AND gain from
-      participating:
-        - extending the culture that you would like to see prosper
-        - sharing knowledge / experience
-        - meeting new people / ideas (break out of your silo!)
+   - No! If you're an "old hand" there is a lot you can both offer AND gain from
+     participating:
+     - extending the culture that you would like to see prosper
+     - sharing knowledge / experience
+     - meeting new people / ideas (break out of your silo!)
 
 2. **Are weaving groups compulsory?**
-    - No. Highly recommended, and optional.
-    - If you do join a weaving group, you're expected to attend each day, it saves
+   - No. Highly recommended, and optional.
+   - If you do join a weaving group, you're expected to attend each day, it saves
       groups re-organising and waiting in case people do / don't show up.
 
 
@@ -74,9 +74,10 @@ context it was called "home groups".
 In the Dweb context weaving has been run since 2019, and it's been an opt-in.
 
 Previous docs:
-- 2023:
-  https://docs.google.com/presentation/d/1kS7-vhUWpnik4MubA00p42MvS8vJAdc4MY6GrmqEe_Q/edit#slide=id.p
-- 2022: https://hackmd.io/@ahdinosaur/Sk5v2qLRc
-- 2019:
-  https://github.com/dweb-camp-2019/organizing/blob/master/roles/weavers.md
+- 2023: [Weaver Training 2023 - Google Slides][weaver2023slides]
+- 2022: [2022 DWeb Weaving - HackMD][weaving2022]
+- 2019: [DWeb Camp 2019 - Weavers][weavers2019]
 
+[weaver2023slides]: https://docs.google.com/presentation/d/1kS7-vhUWpnik4MubA00p42MvS8vJAdc4MY6GrmqEe_Q/edit#slide=id.p
+[weaving2022]: https://hackmd.io/@ahdinosaur/Sk5v2qLRc
+[weavers2019]: https://github.com/dweb-camp-2019/organizing/blob/master/roles/weavers.md
